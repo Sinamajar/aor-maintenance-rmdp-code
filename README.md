@@ -1,4 +1,3 @@
-# aor-maintenance-rmdp-code
 # Code for the paper "A data-driven robust approach to a problem of optimal replacement in maintenance"
 
 This repository contains the Python scripts used to generate the numerical experiments in the revised manuscript (Annals of Operations Research submission).
